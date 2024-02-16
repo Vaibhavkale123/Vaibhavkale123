@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vaibhavkale123
-- 👀 I’m interested in Java
+- 👀 I’m interested in Java, Javascript and Python
 - 🌱 I’m currently learning Fullstack developement
 - 💞️ I’m looking to collaborate on Opensource projects.
 
