@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vaibhavkale123&label=Profile%20views&color=0e75b6&style=flat" alt="Vaibhavkale123" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vaibhavkale123" alt="Vaibhavkale123" /></a> </p>
 
 
 - 👀 I’m interested in Java, Javascript and Python
