@@ -7,7 +7,6 @@
 
 - 👀 I’m interested in Java and Python
 - 🌱 I’m currently learning Fullstack developement
-- 💬 Ask me about **Python and Java**
 - 💞️ I’m looking to collaborate on Opensource projects.
 
 <h3 align="left">Languages and Tools:</h3>
